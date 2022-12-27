@@ -1,0 +1,8 @@
+#直接忽略
+tobeignored.html
+
+#忽略ignore 文件夹里所有文件
+ignore/
+
+
+
