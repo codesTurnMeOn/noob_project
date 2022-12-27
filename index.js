@@ -1,1 +1,1 @@
-window.onload= ()=> console.log("yahoo!")
+window.onload= ()=> console.log("yahoo!") 
